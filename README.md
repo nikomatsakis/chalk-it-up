@@ -1,2 +1,3 @@
-# chalk-the-doc
-Chalk 2.0: a design document and planning repository
+# chalk-it-up
+
+A WIP plan for how to "chalk up" rustc.
